@@ -1,0 +1,20 @@
+{
+  "format_version": 2,
+
+  "header": {
+    "description": "Create chest-like server forms. All credits go to original makers (Modified by Sprixvy)",
+    "min_engine_version": [1, 17, 0],
+    "name": "Chest Form - Resource Pack",
+    "uuid": "34a0395b-a1d5-45ee-9550-074f79e5db07",
+    "version": [1, 0, 0]
+  },
+
+  "modules": [
+    {
+      "description": "Resources Module",
+      "type": "resources",
+      "uuid": "9715e9e6-e4a0-49ce-a665-32e1ac160b0f",
+      "version": [1, 0, 0]
+    }
+  ]
+}

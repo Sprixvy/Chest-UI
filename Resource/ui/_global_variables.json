@@ -1,0 +1,16 @@
+{
+  "$show_inventory": true, // Set to False if you don't want to show the players inventory. *Not recommended for low end devices*
+  "$border_and_background_texture": "textures/ui/dialog_background_opaque",
+
+  // It is important to only enable the layouts that you're planning on using to avoid lag
+  // False = Enables the UI, True = Disables the UI (Only 27 (single chest) and 54 (double chest) are enabled by default)
+
+  "$disable_01_slots_layout": true,
+  "$disable_05_slots_layout": true,
+  "$disable_09_slots_layout": true,
+  "$disable_18_slots_layout": true,
+  "$disable_27_slots_layout": false,
+  "$disable_36_slots_layout": true,
+  "$disable_45_slots_layout": true,
+  "$disable_54_slots_layout": false
+}

@@ -1,0 +1,6 @@
+{
+  "ui_defs": [
+    "ui/custom/chest_form.json",
+    "ui/custom/chest_form_inventory.json"
+  ]
+}

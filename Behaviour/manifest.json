@@ -1,0 +1,38 @@
+{
+  "format_version": 2,
+
+  "header": {
+    "description": "Create chest-like server forms. All credits go to original makers (Modified by Sprixvy)",
+    "min_engine_version": [1, 17, 0],
+    "name": "Chest Form - Behavior Pack",
+    "uuid": "fe21e2f4-740b-4f29-955d-a1409b3ef4bf",
+    "version": [1, 0, 0]
+  },
+
+  "modules": [
+    {
+      "description": "Data Module",
+      "type": "data",
+      "uuid": "eab6644d-9852-419a-97b4-651fbcf3c6bc",
+      "version": [1, 0, 0]
+    },
+    {
+      "description": "Script Module",
+      "type": "script",
+      "entry": "scripts/index.js",
+      "uuid": "df660ab3-242d-40aa-bc5d-1c5917dca637",
+      "version": [1, 0, 0]
+    }
+  ],
+
+  "dependencies": [
+    {
+      "module_name": "@minecraft/server",
+      "version": "2.1.0-beta"
+    },
+    {
+      "module_name": "@minecraft/server-ui",
+      "version": "2.1.0-beta"
+    }
+  ]
+}
