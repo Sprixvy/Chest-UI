@@ -5,8 +5,8 @@ In this modified version, Enchantments and Custom Names for items were added to 
 
 # Credits
 
+Modified by [Sprixvy](https://discord.com/users/501950815963971614).
+
 Original pack created by [LeGend077](https://github.com/LeGend077).
 
 Maintained by [Herobrine64](https://discord.com/users/330740982117302283) & [LeGend077](https://discord.com/users/695712100072292482).
-
-Modified by [Sprixvy](https://discord.com/users/501950815963971614)
